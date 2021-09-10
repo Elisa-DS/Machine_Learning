@@ -1,8 +1,8 @@
 # Machine_Learning
 
-Dataset: data.csv
+Dataset: data.csv  - Breast Cancer Wiscosin
 
-Poster: A Comparison of Naïve Bayes and Random Forest Machine Learning Models, Applied to the Breast Cancer Wisconsin (Diagnostic) Dataset.pdf
+# A Comparison of Naïve Bayes and Random Forest Machine Learning Models, Applied to the Breast Cancer Wisconsin (Diagnostic) Dataset
 
 Data preparation: Data_preparation.m
 
