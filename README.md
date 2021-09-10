@@ -6,7 +6,7 @@ Applied to the Breast Cancer Wisconsin (Diagnostic) Dataset
 
 1. Data preparation: Data_preparation.m
 
-2.Initial data visualisation: Data_visualisation.m
+2. Initial data visualisation: Data_visualisation.m
 
 3. Naive Bayes Model: Naive_Bayes.m (70/30 split)
 			       NB_5050.m (50/50 split) 
